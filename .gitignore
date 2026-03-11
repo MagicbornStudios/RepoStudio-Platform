@@ -1,2 +1,3 @@
 # Local environment overrides
 apps/platform/.env.local
+apps/platform/node_modules/
